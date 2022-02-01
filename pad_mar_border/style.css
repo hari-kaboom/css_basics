@@ -1,0 +1,17 @@
+.box{
+    margin: 40px;
+    padding: 40px;
+    border: solid black;
+}
+#div1{
+    background-color: red;
+
+}
+#div2{
+    background-color: brown;
+
+}
+#div3{
+    background-color: green;
+
+}

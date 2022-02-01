@@ -1,0 +1,21 @@
+.box{
+    color: brown;
+    height: 40px;
+    width: 30px;
+    background-color: coral;
+    padding: 10px;
+}
+.box:hover{
+    background-color: darkgreen;
+    height: 40px;
+    width: 70px;
+}
+.box:active{
+    background-color:blueviolet;
+    height: 40px;
+    width: 70px;
+
+}
+input:focus{
+font-size: large;
+}

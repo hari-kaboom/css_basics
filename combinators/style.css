@@ -1,0 +1,14 @@
+p+p{
+    color: blue;
+    background-color: brown;
+}
+p~p{
+    color: brown;
+    background-color: brown;
+}
+section>p{
+    background-color: cadetblue;
+} 
+section p{
+    background-color: crimson;
+}

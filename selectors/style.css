@@ -1,0 +1,21 @@
+* {
+    font-style: italic;
+}
+div {
+ color: aqua;   
+}
+p {
+    color: blue;
+}
+.big{
+    font-size: 100px;
+}
+#small{
+    color: chocolate;
+}
+input[disabled]{
+    height: 90px;
+}
+input[type='text']{
+    height: 150px;
+}
